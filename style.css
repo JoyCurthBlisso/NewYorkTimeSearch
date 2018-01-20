@@ -1,0 +1,67 @@
+h1 {
+  font-size: 36px;
+  margin-top:50px;
+  font-weight: bold;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: green; 
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: #65a8a4; 
+  text-align: center;
+}
+
+
+#newYorkTimesSearch
+{
+
+  text-align: center;
+  background-color: #20315A;
+  color: white;
+
+}
+
+#searchParametersTop
+{
+
+  background: #303e4e;
+  text-align: center;
+  font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  
+}
+
+#search
+{
+
+  background: white;
+  text-align: left;
+  font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  
+}
+#topArticles
+{
+  margin-top: 25px;
+  background: #233257;
+  text-align: left;
+  font-family:"Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  
+}
+
+footer {
+  padding: 20px;
+  margin-bottom: 20px;
+  margin-top: lightgrey;
+  border-top-color: #eee
+  border-top-width: medium;
+  color: #333;
+  background:white;
+  width: 100%;
+  height:50px;
+  text-align: center;
+  font-family: "Lato","Helvetica Neue",Helvetica,Arial,sans-serif;
+  color: white;
+
+}
